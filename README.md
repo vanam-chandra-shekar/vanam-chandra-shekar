@@ -1,4 +1,4 @@
-![](assets/Hi%20there%20I'm%20Chandra%20Shekar.gif)
+![](assets/banner.gif)
 
 ```cpp
 class Discription
