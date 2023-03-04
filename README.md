@@ -42,8 +42,7 @@ class Discription
  <br>
 
 ## 👨🏻‍💻 **Languages and Tools**<hr>
-<img src='skills/c++.png' style='width:45px'><img src='skills/css-3.png' style='width:45px'><img src='skills/figma.png' style='width:45px'><img src='skills/git.png' style='width:45px'><img src='skills/gnu-bash.png' style='width:45px'><img src='skills/html-5.png' style='width:45px'><img src='skills/js.png' style='width:45px'><img src='skills/letter-c.png' style='width:45px'><img src='skills/linux.png' style='width:45px'><img src='skills/mysql.png' style='width:45px'><img src='skills/python.png' style='width:45px'>
-
+<img src='skills/c++.png' style='width:45px; margin:4px;'><img src='skills/css-3.png' style='width:45px; margin:4px;'><img src='skills/figma.png' style='width:45px; margin:4px;'><img src='skills/git.png' style='width:45px; margin:4px;'><img src='skills/gnu-bash.png' style='width:45px; margin:4px;'><img src='skills/html-5.png' style='width:45px; margin:4px;'><img src='skills/js.png' style='width:45px; margin:4px;'><img src='skills/letter-c.png' style='width:45px; margin:4px;'><img src='skills/linux.png' style='width:45px; margin:4px;'><img src='skills/mysql.png' style='width:45px; margin:4px;'><img src='skills/python.png' style='width:45px; margin:4px;'>
 
 
 ## **🏅Stats**
