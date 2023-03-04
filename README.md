@@ -1,4 +1,4 @@
-![](assets/banner.gif)
+<img src="assets/banner.gif">
 
 ```cpp
 class Discription
