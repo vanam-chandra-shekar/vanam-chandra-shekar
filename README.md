@@ -50,3 +50,6 @@ class Discription
  [![GitHub Streak](https://streak-stats.demolab.com/?user=vanam-chandra-shekar&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanam-chandra-shekar&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vanam-chandra-shekar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
