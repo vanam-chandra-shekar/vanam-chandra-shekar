@@ -31,5 +31,9 @@ class Discription
 }
 ```
 # Don’t forget to phone a friend ☎️
-<a src = "youtube.com"><img src="assets/linkedin.png" style="width:45px"></a>
+[<img src="assets/linkedin.png" style="width:45px">](https://www.linkedin.com/in/vanamchandrashekar/)
+[<img src="assets/twitter.png" style="width:45px">](https://twitter.com/vanamchandrash3)
+[<img src="assets/instagram.png" style="width:45px">](https://www.instagram.com/_chndr_shkr_/)
+[<img src="assets/devto.png" style="width:45px">](https://dev.to/vanamchandrashekar)
+[<img src="assets/discord.png" style="width:45px">](https://discordapp.com/users/8449)
  
