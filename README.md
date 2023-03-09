@@ -53,3 +53,7 @@ class Discription
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vanam-chandra-shekar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## **📈 Activity Graph**
+[![chandra shekars active graph](https://github-readme-activity-graph.cyclic.app/graph?username=vanam-chandra-shekar&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
