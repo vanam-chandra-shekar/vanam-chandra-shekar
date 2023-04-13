@@ -56,7 +56,9 @@ class Discription
 
 [![chandrashekar's GitHub | Stats](https://stats.quine.sh/chandrashekar/github?theme=light)](https://quine.sh)
 
-[![chandrashekar's GitHub | Languages Over Time](https://stats.quine.sh/chandrashekar/languages-over-time?theme=light)](https://quine.sh)
+<img src="https://stats.quine.sh/chandrashekar/languages-over-time?theme=light" style="width:400px">
+
+<!-- [![chandrashekar's GitHub | Languages Over Time](https://stats.quine.sh/chandrashekar/languages-over-time?theme=light)](https://quine.sh) -->
 
 
 ## **📈 Activity Graph**
