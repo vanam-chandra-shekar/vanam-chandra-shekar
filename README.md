@@ -54,6 +54,8 @@ class Discription
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vanam-chandra-shekar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![chandrashekar's GitHub | Languages Over Time](https://stats.quine.sh/chandrashekar/languages-over-time?theme=light)](https://quine.sh)
+
 
 ## **📈 Activity Graph**
 [![chandra shekars active graph](https://github-readme-activity-graph.cyclic.app/graph?username=vanam-chandra-shekar&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
